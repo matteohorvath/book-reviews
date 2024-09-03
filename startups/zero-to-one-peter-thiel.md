@@ -55,3 +55,14 @@ Creative monopoly is a way to create new great products while having the profit 
 
 MBA student are fascinated with the metaphor that the business is like a was. Yes, it used to be when the only was to grow your grocery is to conquer new territories, like emperors did. Marx <> Shakespeare. Marx > people are fighting because they are different. Shakespeare > people are fighting because they are the same. Microsoft and Google battling while Apple became a bigger company while focusing on things that matter. What people want, and not copying the others product and start competing with them. Asperger's-like people are good not giving a damn about what other groups say. Also they can be more independent thinker which makes their efforts towards building things that matter and not caring about the competitors. Oracle <> Informix.
 X <> Paypal teamed up (also fired Elon in a year).
+
+## Last mover advantage 
+
+Discounted cash flows is the value of a company today. Meaning that a growing company's future cashflow is growing also. Most of the realized value of a startup is in 10 years or so.
+
+## Characteristics of Monopoly
+
+1. Proprietary technology - e.g. openai is doing it in a beautiful way today. Also each model on the market have a monopoly for certain use cases. 10x improvement is required.
+2. Network effects - there is an amazing book from Andrew Chen called "cold start problem" which summarizes his experiences and stories from hyper growing companies.
+3. Economies of Scale - the development of a software is kinda fixed in price, while creating another instance for selling is virtually yero cost.
+4. Branding - Your brand is your monopoly. Build it and protect it. This is the last thing, and shouldn't be used as an only power of a company.
