@@ -66,3 +66,11 @@ Discounted cash flows is the value of a company today. Meaning that a growing co
 2. Network effects - there is an amazing book from Andrew Chen called "cold start problem" which summarizes his experiences and stories from hyper growing companies.
 3. Economies of Scale - the development of a software is kinda fixed in price, while creating another instance for selling is virtually yero cost.
 4. Branding - Your brand is your monopoly. Build it and protect it. This is the last thing, and shouldn't be used as an only power of a company.
+
+## Building a Monopoly
+
+1. Start small and monopolize - smaller the market with more the power users the better.
+2. Scaling up - acquire similar markets (eg. Amazon did after books)
+3. Don't distrupt - that's like being a massive trouble maker. Don't do it just on purpose.
+
+Last mover if also an advantage, study the endgame before.
