@@ -122,3 +122,19 @@ The exponential curve is not seeable in the first five years. If you are not foc
 The good investors are making as few investments as possible. You probably shouldn't start your own company, if you are not operating the power law great. A fast growing company will pay more than 100% of nothing. Last mover advantage
 
 ## Secrets
+
+There are three types of truths. ONBe is the convetional which is easy to understand, one is the secret which is hard, and one is the mysteries which are impossible to understand.
+
+### Why aren't people looking for secrets?
+
+Interesting story about the life of the Unabomber. Goals: easily satisfiable, need hard effort, impossible. Things which needed hard effort are less common because of technological advancements.
+Four thinkings risen from the transformation of everyday goals
+
+- incrementalism- from early age we learn that learning is done via small steps and you shouldn't overachieve because you won't get more reward, this cause e.g. large numbers of common papers are more important than frontier research
+- risk aversion - being wrong means lonely means death
+- complacency - elite classes believe that their superiority is enough to justify to collect rents the ideas of the past
+- flatness - with globalization people see the world as one homogeneous market, where nothing new can be done because of the massive size of it. Why wouldn't more talented and rich people didn't do this or that is the first question which came to mind of a new creator.
+
+The good thing is that today it's more hard to start a cult, because people don't think that there is some mystery which can only be obtained if your are part of a sect.
+
+### The World according to convention
