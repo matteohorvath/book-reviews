@@ -138,3 +138,111 @@ Four thinkings risen from the transformation of everyday goals
 The good thing is that today it's more hard to start a cult, because people don't think that there is some mystery which can only be obtained if your are part of a sect.
 
 ### The World according to convention
+
+HP's story as it started to invent, then quickly changed trajectory and started to do non-inventing stuff. They stopped believing in secrets and started to do the more conventional stuff.
+
+### The case for secrets
+
+You can't find secrets without looking for them.
+Only the relentless ones can find them.
+
+### How to find secrets
+
+Two type of secrets : natural, people. You can find them where nobody is looking.
+
+### What to do with secrets
+
+There is a golden mean between telling everybody and telling no one. Great businesses are built around a secret which is hidden from the outside. Take the hidden path, as Tolkien says.
+
+## Foundations
+
+"a startup messed up at its foundation cannot be fixed."
+
+### Founding matrimony
+
+Your co-founder is kinda like your wife.
+
+### Ownership, possession, and control
+
+- ownership - who legally owns a company's equity?
+- possession - who actually runs the company on a day-to-day basis?
+- control - who formally governs the company's affairs?
+
+These questions should be answered at the start of the company. This is how you can control alignment. Board shouldn't be big, keep it at max 5 if it's private.
+
+### On the bus or off the bus
+
+Full-time, and onsite workers. This is how you won't have misalignment.
+
+### Cash is not king
+
+CEO's salary shouldn't be high. The lower it is, the harder it is signaling the standard.
+Cash is attractive, but cash compensation will focus the mind to short-term thinking.
+
+### Vested interests
+
+Equity is a powerful tool when you have people who believe that your company will succeed.
+
+### Extending the founding
+
+Extending a company's founding indefinitely is how it will stay inventing.
+
+## The mechanics of mafia
+
+Ideal company culture doesn't exist, work like a mafia.
+
+### Beyond professionalism
+
+Tightly knit team, wit a shared mission and vision.
+People who join should be excited to work on the problem, and with us.
+
+### Recruiting conspirators
+
+Recruiting is the core competency of every company.
+Why should the xth (x>20) engineer join the company?
+
+You should have a unique answer to this. Don't fight the perk war.
+
+### What's under silicon valley's hoodies
+
+Company merch is how the whole company looks the same in a different way.
+
+### Do one thing
+
+On the inside every individual should have one job. Internal war for responsibilities is counter productive.
+
+### Of cults and consultants
+
+0-1 is more like a cult than a nihilist consultant. A startup is fanatically right about something that the outside is missing.
+
+### If you built it, will they come?
+
+1. no. Sales is not devil (like the nerds think).
+
+### Nerds vs. Salesmen
+
+Nerds like transparency, and think salesman are by heart lying.
+
+### Sales is hidden
+
+From the titles to the processes it is usually hidden. Distribution is an essential design part of your product. Invent an effective way how to sell your product.
+
+### How to sell a product?
+
+- CAC: 1$ - Consumer - Viral Marketing
+- CAC: 100$ - Consumer and small business -  Marketing
+- DEAD ZONE
+- CAC: 10.000$ - Small Business - Sales
+- CAC: 10 million $ - Big corp, government - Complex Sales
+
+One distribution channel will be better than all of them.
+
+Selling to non-consumers is also essential (vcs, new employees).
+
+### Everybody sells
+
+literally.
+
+### Man and machine
+
+tbc.
